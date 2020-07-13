@@ -4,5 +4,4 @@ With a CANbus and this script you can define the CAN ID that is used to advance 
 WARNING : Don’t use this script for illegal purposes (because it’s not so kind to be naughty)
 
 install dependencies :
-chmod +× setup.sh
-sudo ./setup.sh 
+sudo chmod +× setup.sh && sudo ./setup.sh
