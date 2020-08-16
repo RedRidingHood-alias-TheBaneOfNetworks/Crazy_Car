@@ -2,7 +2,7 @@
 
 import time
 import os
-interface = raw_input("choose device to test (vcan0, can0, etc...) >>> ")
+interface = raw_input("choose device to test (vcan0, can0, slcan0, ...) >>> ")
 
 enum = open("wordlist.lst")
 option = raw_input("choose option (bruteforce/findIDs) >>> ")
