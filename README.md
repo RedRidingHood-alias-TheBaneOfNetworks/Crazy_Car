@@ -7,4 +7,4 @@ WARNING : Don’t use this script for illegal purposes (because it’s not so ki
 
 install dependencies :
 ----------------------
-sudo chmod +× setup.sh && sudo ./setup.sh
+sudo chmod +x setup.sh && sudo ./setup.sh
